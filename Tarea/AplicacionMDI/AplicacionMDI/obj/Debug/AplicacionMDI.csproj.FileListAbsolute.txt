@@ -1,0 +1,34 @@
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.exe.config
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.exe
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.pdb
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmCliente.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmLocal.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmProducto.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmPrincipal.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmCategorias.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmVenta.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.Properties.Resources.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.csproj.GenerateResource.Cache
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.exe
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.pdb
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmDocumentoPersona.resources
+C:\Users\jeanc\Downloads\AplicacionMDI (1)\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmTrabajador.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.exe.config
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.exe
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\bin\Debug\AplicacionMDI.pdb
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.csprojAssemblyReference.cache
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmCliente.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmDocumentoPersona.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmLocal.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmProducto.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmPrincipal.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmCategorias.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmTrabajador.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmVenta.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.Properties.Resources.resources
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.csproj.GenerateResource.cache
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.csproj.CoreCompileInputs.cache
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.exe
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.pdb
+C:\Users\sakur\Downloads\Tarea\Tarea\AplicacionMDI\AplicacionMDI\obj\Debug\AplicacionMDI.frmUsuario.resources

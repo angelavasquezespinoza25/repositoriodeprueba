@@ -1,0 +1,5 @@
+Macalopu: Trabajador
+Cynthia: Usuario
+Angela: Validar producto y correo; no puede registrar un producto sin haber registrado primero 
+        una categoria
+Anthony: Cliente
